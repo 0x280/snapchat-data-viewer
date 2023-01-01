@@ -1,4 +1,4 @@
-# snapchat-data-viewer (wip)
+# snapchat-data-viewer (wip) [![Test](https://github.com/0x280/snapchat-data-viewer/actions/workflows/test_push.yml/badge.svg)](https://github.com/0x280/snapchat-data-viewer/actions/workflows/test_push.yml) [![Docker image](https://github.com/0x280/snapchat-data-viewer/actions/workflows/deploy.yml/badge.svg)](https://github.com/0x280/snapchat-data-viewer/actions/workflows/deploy.yml)
 
 ## Project setup
 
